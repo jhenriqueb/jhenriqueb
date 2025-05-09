@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e91e63&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+JHENRIQUE;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e91e63&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+JHENRIQUE;Seja+bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhenriqueb&show_icons=true&count_private=true&hide_border=true&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Jhenrique"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriqueb&layout=compact&hide_border=true&title_color=2ecc71&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhenriqueb&show_icons=true&count_private=true&hide_border=true&title_color=e91e63&icon_color=e91e63&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Jhenrique"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriqueb&layout=compact&hide_border=true&title_color=e91e63&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jhenriqueb&bg_color=0d1117&color=2ecc71&line=27ae60&point=27ae60&area=true&hide_border=true)](https://github.com/jhenriqueb)
+[![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=jhenriqueb&bg_color=0d1117&color=e91e63&line=ff69b4&point=ff69b4&area=true&hide_border=true)](https://github.com/jhenriqueb)
  
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
@@ -26,4 +26,4 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ecc71&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e91e63&height=120&section=footer"/>
