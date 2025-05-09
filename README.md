@@ -11,10 +11,7 @@
  
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c)
 
 ### Ferramentas:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
